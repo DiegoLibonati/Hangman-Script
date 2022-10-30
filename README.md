@@ -55,3 +55,7 @@ random_word = choice(list_words).upper()
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Hangman%20script`
 
 ## Video
+
+
+https://user-images.githubusercontent.com/99032604/198900729-70cad371-f6ca-4429-9305-ed48bedbb491.mp4
+
