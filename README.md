@@ -32,7 +32,7 @@ I made a python script that allows to play hangman from the console. The user wi
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Hangman%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Hangman%20Script`
 
 ## Video
 
